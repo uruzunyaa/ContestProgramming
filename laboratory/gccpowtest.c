@@ -2,9 +2,9 @@
 #include <math.h>
 
 int main() {
-    for (int i = 0; i < 15; i++) {
-        long long n = (long long)pow(10, i);
-        printf("%lld\n", n);
+    for (int i = 0; i < 8; i++) {
+        int n = pow(10, i);
+        printf("%d\n", n);
     }
     return 0;
 }
