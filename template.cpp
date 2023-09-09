@@ -2,6 +2,8 @@
 #include <algorithm>
 #include <vector>
 #include <deque>
+#include <string>
+#include <map>
 using namespace std;
 
 //loop(ループ変数、初期値、最終ループ値)
