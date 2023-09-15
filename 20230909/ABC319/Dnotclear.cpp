@@ -33,7 +33,5 @@ int main(){
         }
     }
     cout<<ave+max-1;
-
-    
     return 0;
 }
