@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "stdio.h": "c"
+    },
+    "java.project.sourcePaths": [
+        "test/power",
+        "test"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
