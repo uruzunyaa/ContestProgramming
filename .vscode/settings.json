@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "atomic": "c"
-    }
+    },
+    "java.debug.settings.onBuildFailureProceed": true
 }
