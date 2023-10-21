@@ -2,5 +2,5 @@
     "files.associations": {
         "atomic": "c"
     },
-    "java.debug.settings.onBuildFailureProceed": true
+    //"java.debug.settings.onBuildFailureProceed": true
 }
